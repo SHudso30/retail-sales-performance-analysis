@@ -8,6 +8,8 @@ Using Google Sheets, pivot tables, KPI reporting, and dashboard visualizations, 
 
 ## Dashboard
 
+![Retail Sales Performance Dashboard](dashboard.png)
+
 - Total Sales: $2.30M
 - Total Profit: $286K
 - Total Orders: 9.994
