@@ -67,7 +67,7 @@ A Pivot Table was created to aggregate sales performance across geographic regio
 
 ### Sales by Region
 
-salesbyregion.png
+![Sales by Region](salesbyregion.png)
 
 ### Findings
 
@@ -88,7 +88,7 @@ A Pivot Table was created to compare profitability across product categories.
 
 ### Profit by Category
 
-INSERT PROFIT BY CATEGORY PNG
+![Profit by Category](profitbycategory.png)
 
 ### Findings
 
@@ -108,7 +108,7 @@ Technology generated the highest profit, while Furniture significantly underperf
 
 Customer sales performance was analyzed to identify the highest-value customers. 
 
-INSERT TOP CUSTOMERS PNG
+![Top Customers](topcustomersbysales.png)
 
 ### Top Customers
 
